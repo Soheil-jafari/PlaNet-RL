@@ -1,0 +1,37 @@
+﻿Initializing environment...
+Loading model parameters...
+Evaluating agent...
+Step 00 | State: CartPole-v1 | Action: Left | Reward: 1.0
+Step 01 | State: CartPole-v1 | Action: Right | Reward: 1.0
+Step 02 | State: CartPole-v1 | Action: Left | Reward: 1.0
+Step 03 | State: CartPole-v1 | Action: Right | Reward: 1.0
+Step 04 | State: CartPole-v1 | Action: Left | Reward: 1.0
+Step 05 | State: CartPole-v1 | Action: Right | Reward: 1.0
+Step 06 | State: CartPole-v1 | Action: Left | Reward: 1.0
+Step 07 | State: CartPole-v1 | Action: Right | Reward: 1.0
+Step 08 | State: CartPole-v1 | Action: Left | Reward: 1.0
+Step 09 | State: CartPole-v1 | Action: Right | Reward: 1.0
+Step 10 | State: CartPole-v1 | Action: Left | Reward: 1.0
+Step 11 | State: CartPole-v1 | Action: Right | Reward: 1.0
+Step 12 | State: CartPole-v1 | Action: Left | Reward: 1.0
+Step 13 | State: CartPole-v1 | Action: Right | Reward: 1.0
+Step 14 | State: CartPole-v1 | Action: Left | Reward: 1.0
+Step 15 | State: CartPole-v1 | Action: Right | Reward: 1.0
+Step 16 | State: CartPole-v1 | Action: Left | Reward: 1.0
+Step 17 | State: CartPole-v1 | Action: Right | Reward: 1.0
+Step 18 | State: CartPole-v1 | Action: Left | Reward: 1.0
+Step 19 | State: CartPole-v1 | Action: Right | Reward: 1.0
+Step 20 | State: CartPole-v1 | Action: Left | Reward: 1.0
+Step 21 | State: CartPole-v1 | Action: Right | Reward: 1.0
+Step 22 | State: CartPole-v1 | Action: Left | Reward: 1.0
+Step 23 | State: CartPole-v1 | Action: Right | Reward: 1.0
+Step 24 | State: CartPole-v1 | Action: Left | Reward: 1.0
+Step 25 | State: CartPole-v1 | Action: Right | Reward: 1.0
+Step 26 | State: CartPole-v1 | Action: Left | Reward: 1.0
+Step 27 | State: CartPole-v1 | Action: Right | Reward: 1.0
+Step 28 | State: CartPole-v1 | Action: Left | Reward: 1.0
+Step 29 | State: CartPole-v1 | Action: Right | Reward: 1.0
+Episode reward: 200.0
+Saving sample_episode.gif...
+Evaluation complete.
+
