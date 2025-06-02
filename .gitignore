@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+.env.*
+.vscode/
+*.log
+output.txt
+results/*.gif
+results/*.png
+```
