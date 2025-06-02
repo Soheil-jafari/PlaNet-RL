@@ -36,9 +36,8 @@ PlaNet-RL/
 ├── README.md          # Project documentation
 ├── .gitignore         # Ignore config/logs/pycache
 ├── training.log       # Mock training logs
-└── results/
-    ├── rewards_plot.png
-    └── sample_episode.gif
+├── rewards_plot.png
+└── sample_episode.gif
 ```
 
 ---
